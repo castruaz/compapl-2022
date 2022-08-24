@@ -9,3 +9,9 @@ Carlos Hector Castaneda Ramirez
 Este repositorio contiene los programas en python desrrollados durante la clase
 
 Cambio hecho desde casa 
+
+## Actividad 01
+- p01 - hola mundo
+- p02 - area de un circulo
+- p03 - area de un triangulo
+- p04 - paga del trabajador
