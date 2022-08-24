@@ -8,4 +8,4 @@ Carlos Hector Castaneda Ramirez
 
 Este repositorio contiene los programas en python desrrollados durante la clase
 
-Cambio hecho desde casa
+Cambio hecho desde casa 
