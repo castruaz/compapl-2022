@@ -15,3 +15,9 @@ Cambio hecho desde casa
 - p02 - area de un circulo
 - p03 - area de un triangulo
 - p04 - paga del trabajador
+
+## Actividad 02
+- p05 - promedio de calificaciones
+- p06 - operaciones matematicas
+- p07 - funciones trigonometricas
+- p08 - dividir cifras
